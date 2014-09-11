@@ -1,4 +1,6 @@
-swoole_task
-===========
+#swoole_task
 
-swoole 学习 之 swoole task服务框架
+主要目的
+=========
+1. 搭建一个任何框架都可以使用的task服务器
+2. 搭建一个任何框架都可以使用的timer服务器
